@@ -12,7 +12,7 @@
 
 ## About
 
-💻 Udemy's JavaScript Courses is a repository created to store the code developed throughout Udemy's JavaScript Courses. It contains code all the way from basic JavaScript concepts, such as variables, arrays and objects to more advanced concepts, such as Async, AJAX, promises and more!
+💻 Udemy's JavaScript Courses is a repository created to store the code developed throughout Udemy's JavaScript courses. It contains code all the way from basic JavaScript concepts, such as variables, arrays and objects to more advanced concepts, such as Async, AJAX, promises and more!
 
 ## Tech Stack
 
