@@ -29,7 +29,7 @@ function calculateResult(calculationType) {
     const initialResult = currentResult;
     let mathOperator;
 
-    if (calculationType !== 'ADD' && calculationType !== 'SUBTRACT' && calculationType !== 'MULTIPLY' && calculationType !== 'DIVIDE') {
+    if ((calculationType !== 'ADD' && calculationType !== 'SUBTRACT' && calculationType !== 'MULTIPLY' && calculationType !== 'DIVIDE') || !enteredNumber) {
         return;
     }
 
